@@ -10,6 +10,7 @@ General
 ======
 * [Official Website](https://stenciljs.com/)
 * [Github Repository](https://github.com/ionic-team/stencil)
+* [YouTube Presentation](https://youtu.be/UfD-k7aHkQE)
 
 ### Components
 
